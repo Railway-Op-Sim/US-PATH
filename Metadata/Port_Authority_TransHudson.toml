@@ -1,0 +1,14 @@
+rly_file = "Port_Authority_TransHudson.rly"
+ttb_files = [ "PATH_MonFri_6_00.ttb",]
+ssn_files = [ "PATH_Port_Authority_TransHudson_MonFri_06_00.ssn",]
+img_files = [ "Port_Authority_TransHudson.bmp",]
+doc_files = [ "README.md", "path-map-schedule-10-13.pdf",]
+release_date = "2022-05-14"
+version = "1.0.0"
+country_code = "US"
+factual = true
+description = ""
+display_name = "Path"
+name = "Path"
+author = "Kristian Zarębski"
+contributors = []
